@@ -1,0 +1,6 @@
+{
+  "name": "Kur'an ile Konuş",
+  "description": "Kişisel Kur'an Rehberi, Duygu Analizli Ayet ve Tefsir Asistanı",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
