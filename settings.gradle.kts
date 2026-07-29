@@ -24,4 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "KuranIleKonus"
 
-include(":app")
+include(":uygulama")
