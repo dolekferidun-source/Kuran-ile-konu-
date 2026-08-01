@@ -16,6 +16,10 @@ jobs:
         with:
           distribution: temurin
           java-version: 17
+                - name: Show files
+        run: |
+          pwd
+          ls -la
 
       - name: Grant execute permission
         run: chmod +x gradlew
